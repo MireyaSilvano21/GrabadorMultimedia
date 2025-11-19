@@ -5,9 +5,10 @@ Esta aplicacion es para **Android** funciona grabando ya sea:
 -Video
 -o Imagenes(Fotos)
 
-##Integrantes de mi equipo:
-1.Derick
-2.*Eliel*
+## Integrantes de mi equipo:
+
+1. Derick
+2. *Eliel*
 
 | id | Composable |
 |---------|-------|
