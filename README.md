@@ -1,9 +1,9 @@
 # GrabadorMultimedia
 
 Esta aplicacion es para **Android** funciona grabando ya sea:
--Audio
--Video
--o Imagenes(Fotos)
+- Audio
+- Video
+- o Imagenes(Fotos)
 
 ## Integrantes de mi equipo:
 
